@@ -1,1 +1,3 @@
-Ala ma psa i kota.
+Ala ma tylko psa.
+
+Dodanie nowego monitora.
